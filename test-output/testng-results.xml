@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-05T22:05:01 ICT" name="Default suite" finished-at="2021-12-05T22:05:09 ICT" duration-ms="7094">
+    <groups>
+    </groups>
+    <test started-at="2021-12-05T22:05:01 ICT" name="Default test" finished-at="2021-12-05T22:05:09 ICT" duration-ms="7094">
+      <class name="API_GET_Request">
+        <test-method signature="getListUserReqRes()[pri:0, instance:API_GET_Request@732c2a62]" started-at="2021-12-05T22:05:01 ICT" name="getListUserReqRes" finished-at="2021-12-05T22:05:08 ICT" duration-ms="6998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListUserReqRes -->
+      </class> <!-- API_GET_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
