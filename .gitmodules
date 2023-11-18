@@ -1,0 +1,3 @@
+[submodule "selenium-java-API"]
+	path = selenium-java-API
+	url = https://github.com/babangjoe/selenium-java-API.git
